@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="26.0.5">
+  <diagram name="Page-1" id="-6uCEIyc3rQsE5mptAq-">
+    <mxGraphModel dx="939" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="efzbPpGwgziq4d4_UylA-24" value="" style="group;arcSize=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="300" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="efzbPpGwgziq4d4_UylA-24">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;BLANK - VLAN##&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-24">
+          <mxGeometry x="30" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-22" value="- INTERNET ONLY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-24">
+          <mxGeometry x="40" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-23" value="- Security Cameras" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-24">
+          <mxGeometry x="40" y="90" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-25" value="" style="group;arcSize=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="300" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="efzbPpGwgziq4d4_UylA-25">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;BLANK - VLAN##&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-25">
+          <mxGeometry x="30" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-28" value="- INTERNET ONLY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-25">
+          <mxGeometry x="40" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-29" value="- Security Cameras" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-25">
+          <mxGeometry x="40" y="90" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="20" width="570" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=4;arcSize=8;" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry width="570" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=none;" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="20.357142857142858" y="50" width="14.25" height="14.25" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=none;" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="20.357142857142858" y="80" width="14.25" height="14.25" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;strokeColor=none;" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="20.357142857142858" y="110" width="14.25" height="14.25" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-10" value="ISP / Trunk" style="text;html=1;align=left;verticalAlign=middle;rounded=0;fontFamily=Tahoma;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;fontStyle=0" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="54.285714285714285" y="47.5" width="230.7142857142857" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-11" value="VLAN - GUEST 10" style="text;html=1;align=left;verticalAlign=middle;rounded=0;fontFamily=Tahoma;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;fontStyle=0" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="54.285714285714285" y="107.5" width="285" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-12" value="VLAN - TRUST - 10.0.0.10" style="text;html=1;align=left;verticalAlign=middle;rounded=0;fontFamily=Tahoma;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;whiteSpace=wrap;fontStyle=0" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="54.285714285714285" y="77.5" width="271.42857142857144" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-14" value="" style="line;strokeWidth=2;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="339.2857142857143" y="55" width="81.42857142857143" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" edge="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.4642857142857" y="87.15999999999998" as="sourcePoint" />
+            <mxPoint x="410.5357142857143" y="87.08" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-18" value="" style="line;strokeWidth=4;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="339.29" y="115" width="60.71" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transmission.2_line_bus;" vertex="1" parent="efzbPpGwgziq4d4_UylA-33">
+          <mxGeometry x="339.2914285714286" y="140" width="67.85714285714286" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-34" value="" style="group;arcSize=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="480" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="efzbPpGwgziq4d4_UylA-34">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;BLANK - VLAN##&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-34">
+          <mxGeometry x="30" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-37" value="- INTERNET ONLY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-34">
+          <mxGeometry x="40" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-38" value="- Security Cameras" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-34">
+          <mxGeometry x="40" y="90" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-39" value="" style="group;arcSize=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="480" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="efzbPpGwgziq4d4_UylA-39">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;BLANK - VLAN##&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-39">
+          <mxGeometry x="30" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-42" value="- INTERNET ONLY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-39">
+          <mxGeometry x="40" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-43" value="- Security Cameras" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-39">
+          <mxGeometry x="40" y="90" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-44" value="" style="group;arcSize=1;absoluteArcSize=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="300" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="efzbPpGwgziq4d4_UylA-44">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;BLANK - VLAN##&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-44">
+          <mxGeometry x="30" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-47" value="- INTERNET ONLY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-44">
+          <mxGeometry x="40" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-48" value="- Security Cameras" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-44">
+          <mxGeometry x="40" y="90" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-49" value="" style="group;arcSize=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="480" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="efzbPpGwgziq4d4_UylA-49">
+          <mxGeometry width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font&gt;BLANK - VLAN##&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-49">
+          <mxGeometry x="30" y="20" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-52" value="- INTERNET ONLY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-49">
+          <mxGeometry x="40" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="efzbPpGwgziq4d4_UylA-53" value="- Security Cameras" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="efzbPpGwgziq4d4_UylA-49">
+          <mxGeometry x="40" y="90" width="180" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
